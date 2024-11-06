@@ -28,6 +28,8 @@ Buoc 1 setup local:
 
 + Setup Nodejs: Download va cai dat Nodejs https://nodejs.org/en/download/package-manager
 
++Setup ket noi database: Vui long chinh sua password/username file .env
+
 Buoc 2 run project: 
 + Run project : npm run start
 + Run test: npm run test
